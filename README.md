@@ -2,7 +2,7 @@
 
 - 💼 Procuro emprego na área de desenvolvedor front-end
 - 📚 Cursando Análise e desenvolvimento de sistemas
-- 👨‍💻 Estudando JavaScript
+- 👨‍💻 Estudando React
 - 🏀❤️‍🔥📽️🎮
 
 <a href="https://github.com/kaiovbamorim">
