@@ -1,8 +1,7 @@
 ## Olá! Me chamo Kaio Amorim 👋
 
-- 💼 Procuro emprego na área de desenvolvedor front-end
-- 📚 Cursando Análise e desenvolvimento de sistemas
-- 👨‍💻 Estudando React
+- 💼 Desenvolvedor Full-Stack
+- 📚 Formado em Análise e desenvolvimento de sistemas
 - 🏀❤️‍🔥📽️🎮
 
 <a href="https://github.com/kaiovbamorim">
